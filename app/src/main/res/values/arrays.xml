@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="question_array">
+        <item>Вопрос 1</item>
+        <item>Вопрос 2</item>
+        <item>Вопрос 3</item>
+        <item>Вопрос 4</item>
+        <item>Вопрос 5</item>
+        <item>Вопрос 6</item>
+        <item>Вопрос 7</item>
+        <item>Вопрос 8</item>
+        <item>Вопрос 9</item>
+        <item>Вопрос 10</item>
+        <!-- Добавьте остальные вопросы -->
+    </array>
+
+    <array name="answer_array">
+        <item>Ответ 1</item>
+        <item>Ответ 2</item>
+        <item>Ответ 3</item>
+        <item>Ответ 4</item>
+        <item>Ответ 5</item>
+        <item>Ответ 6</item>
+        <item>Ответ 7</item>
+        <item>Ответ 8</item>
+        <item>Ответ 9</item>
+        <item>Ответ 10</item>
+        <!-- Добавьте остальные вопросы -->
+    </array>
+
+    <array name="power_array">
+        <item>Воп 1</item>
+        <item>Воп 2</item>
+        <item>Воп 3</item>
+        <!-- Добавьте остальные вопросы -->
+    </array>
+</resources>
